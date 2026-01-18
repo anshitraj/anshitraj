@@ -86,16 +86,20 @@ Rust • Solidity • TypeScript • React / Next.js • Solana & EVM
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=anshitraj&theme=darkhub&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=anshitraj&theme=onedark&margin-w=10&no-frame=true" />
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshitraj&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshitraj&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshitraj&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshitraj&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://streak-stats.demolab.com?user=anshitraj&theme=tokyonight&hide_border=true" height="160" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshitraj&layout=compact&theme=tokyonight" height="150" />
+
+
+
 
 </div>
 
